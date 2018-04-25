@@ -7,3 +7,5 @@ RUN apt-get -y install nodejs
 RUN npm install -g grunt-cli
 RUN npm config set registry="http://registry.npmjs.org/"
 RUN gem install bundler
+
+EXPOSE 8888
