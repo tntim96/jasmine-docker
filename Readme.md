@@ -22,6 +22,6 @@ You can run tests by going to http://localhost:8888/
 
 
 # Build the image
-The image is available on docker hub `tntim96/jasmine-docker-dev`, built with:
+The image is available on docker hub `tntim96/jasmine-docker`, built with:
 
-`docker build --rm -t tntim96/jasmine-docker-dev .`
+`docker build --rm -t tntim96/jasmine-docker .`
